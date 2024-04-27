@@ -1,4 +1,4 @@
-# magento-2-sticky-add-to-cart
+# Magento 2 Sticky Add to Cart Button Extension
 
 ![Screenshot Capture - 2024-04-27 - 15-39-43](https://github.com/patelanny/magento-2-sticky-add-to-cart/assets/121279820/8d936e6f-0944-4be1-8d03-e3439859cb33)
 
